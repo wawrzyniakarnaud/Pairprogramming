@@ -1,0 +1,47 @@
+.brand-logo{ 
+     margin-left: 20px;
+}
+.nav-wrapper{
+     background-color: grey;
+}
+.nav-wrapper a{
+     color:black;
+     font-weight: 800;
+}
+.main {
+     text-align: center;
+     border-right: solid 3px grey;
+     border-left: solid 3px grey;
+}
+h1{
+     color : grey;
+     margin-top: 50px;
+     font-weight: 800;
+}
+h2{
+     font-size: 2em;
+     margin-top: 50px;
+     color: gray;
+     font-weight: 700;
+}
+h3 {
+     font-size: 1.5em;
+     margin-top: 50px;
+     color: gray;
+     font-weight: 600;
+}    
+section p{
+     font-size: 1.1em;
+     margin-top: 50px;
+     font-weight: 600;
+     
+}
+img {
+     width: 1000px;
+     height: 500px;
+}
+em{
+     color: darkred;
+     font-weight: bold;
+     
+}
